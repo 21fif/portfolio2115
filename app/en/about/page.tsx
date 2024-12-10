@@ -17,13 +17,13 @@ export default function Home() {
                 Hey,
               </h2>
               <h2 className="text-xl text-gray-800 font-bold md:mt-4 md:text-2xl">
-              My name is Filip and I'm 24yo.
+              My name is Filip and I&apos;m 24yo.
               </h2>
               <p className="text-gray-800 md:mt-4 md:block">
               I study computer science and have been developing as a frontend developer for a year, specializing in TypeScript, JavaScript, and React.
               </p>
               <p className="text-gray-800 md:block">
-              I am open to learning backend development because I believe that a variety of technologies enriches a programmer's perspective.
+              I am open to learning backend development because I believe that a variety of technologies enriches a programmer&apos;s perspective.
               </p>
               <p className="text-gray-800 md:block">
               I am convinced that with determination, I can achieve a lot and I always give my best.
